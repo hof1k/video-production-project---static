@@ -1,0 +1,43 @@
+.controls__elem {
+  cursor: pointer;
+}
+
+.form__controls {
+  display: flex;
+}
+
+.form__controls-title {
+  width: 40%;
+  padding-left: 30px;
+}
+
+.controls {
+  display: flex;
+  flex:1;
+  flex-wrap: wrap;
+}
+
+.controls__item {
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+.controls__tag {
+  display: inline-block;
+  padding: 9px 15px;
+  border-radius: 35px;
+  background: #E7E7E7;
+  font-size: 13px;
+}
+
+.controls__checkbox:checked ~ .controls__tag {
+  background: #F2D4C9;
+}
+
+.controls__checkbox {
+  display: none;
+}
+
+.controls__tag--active {
+  background: #F2D4C9;
+}

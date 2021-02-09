@@ -1,0 +1,21 @@
+.hero__text-section {
+  text-align: center;
+ 
+}
+
+.hero__title {
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.hero__desc {
+  font-size: 18px;
+  margin-bottom: 42px;
+}
+
+.hero__content {
+  margin-bottom: 233px;
+}

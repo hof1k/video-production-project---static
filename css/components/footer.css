@@ -1,0 +1,19 @@
+.footer-container__content {
+  
+  border-top: 1px solid  #353538
+  
+}
+
+.footer {
+  height: 152px;
+  position: relative;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+
+.footer-container {
+  margin-top: auto;
+}

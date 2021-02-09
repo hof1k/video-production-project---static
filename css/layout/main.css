@@ -1,0 +1,42 @@
+/* BASE CSS */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url("./../layout/normalize.css");
+@import url("./../layout/base.css");
+
+
+
+/*  COMPONENTS CSS */
+@import url("./../components/header.css");
+@import url("./../components/contacts.css");
+@import url("./../components//menu.css");
+@import url("./../components/hero.css");
+@import url("./../components/btn.css");
+@import url("./../components/offers.css");
+@import url("./../components/news.css");
+@import url("./../components/section.css");
+@import url("./../components/pager.css");
+@import url("./../components/about.css");
+@import url("./../components/footer.css");
+@import url("./../components/socials.css");
+
+/* SERVICES PAGE */
+
+@import url("./../components/top-line.css");
+@import url("./../components/page.css");
+@import url("./../components/breadcrumbs.css");
+@import url("./../components/services.css");
+@import url("./../components/partners.css");
+
+
+/* REVIEWS PAGE */
+
+@import url("./../components/reviews.css");
+@import url("./../components/separator.css");
+@import url("./../components/inner-section.css");
+@import url("./../components/form.css");
+@import url("./../components/controls.css");
+
+/* WELCOME PAGE */
+
+@import url("./../components/welcome.css");
+@import url("./../components/central.css");

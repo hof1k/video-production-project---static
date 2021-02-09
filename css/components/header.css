@@ -1,0 +1,10 @@
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  height: 112px;
+  align-items: center;
+  margin-bottom: 150px;
+}
+
+
